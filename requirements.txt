@@ -1,0 +1,5 @@
+pip install FastAPI
+pip install Flask
+pip install supabase
+pip install uvicorn
+pip install flask_cors
